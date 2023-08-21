@@ -1,3 +1,5 @@
+#!/bin/bash
+
 SOURCE_DIR="$HOME/.config"
 DEST_DIR="$HOME/configs"
 
