@@ -1,4 +1,4 @@
-SOURCE_DIR="$HOME/.configs"
+SOURCE_DIR="$HOME/.config"
 DEST_DIR="$HOME/configs"
 
 DIRS=("fish" "tmux" "nvim" "i3" "rofi")
